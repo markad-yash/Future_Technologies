@@ -11,7 +11,7 @@
 Stretch your imaginations to the other dimension(possiblity).
 
 
-![loading](https://user-images.githubusercontent.com/58439868/132955875-0428d33a-9646-42ba-9b56-3a0033d971a8.gif)
+
 
 
 
@@ -47,8 +47,6 @@ Stretch your imaginations to the other dimension(possiblity).
 Modern technology has paved the way for multi-functional devices like the smartwatch
 and the smartphone. Computers are increasingly faster, more portable, and higher-powered than ever
 before. With all of these revolutions, technology has also made our lives easier, faster, better, and more fun.
-
-![d1uocva-8478dc97-c8ed-4993-81c3-0141e15dca4f](https://user-images.githubusercontent.com/58439868/132955957-6c151751-5a4a-45a8-bb2e-c08873339080.gif)
 
 
 ## How?   
