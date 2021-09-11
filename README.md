@@ -1,6 +1,8 @@
 # Future_Technologies
 
-![images](https://user-images.githubusercontent.com/58439868/132953802-b54fd4ad-2ced-46ca-a9ab-e97550604817.jpg)
+![tumblr_mqeo0dTJAU1spo3yuo1_500](https://user-images.githubusercontent.com/58439868/132955776-7ef64407-441c-4cc1-926a-d67c975cae17.gif)
+
+
 
 
 ***We are discussing about future technologies***
@@ -9,7 +11,8 @@
 Stretch your imaginations to the other dimension(possiblity).
 
 
-![smart-brain-concept-brain-smart-brain-concept-brain-parts-scheme-human-hand-digital-tablet-dark-abstract-158098259](https://user-images.githubusercontent.com/58439868/132953737-76616562-f2d1-4645-bff1-fcdda612cdfd.jpg)
+![loading](https://user-images.githubusercontent.com/58439868/132955875-0428d33a-9646-42ba-9b56-3a0033d971a8.gif)
+
 
 
 
@@ -29,8 +32,8 @@ Stretch your imaginations to the other dimension(possiblity).
 > •	Human beings have the ability to destroy or rebuilt the world, it’s in the hands of Humans to make this planet a peaceful and secured place for human and other species to exist.
 
 
+![tumblr_mkqtnpDYGH1rnwo2vo1_500](https://user-images.githubusercontent.com/58439868/132955796-8ab9ca97-edd4-4caf-8c0e-8b74142438a3.gif)
 
-![69-691752_logo-icon-information-technology-clipart-png-download-icon](https://user-images.githubusercontent.com/58439868/132953988-7294663c-35b1-450e-ae7d-9439d09831a9.jpg)
 
 
 
@@ -45,11 +48,14 @@ Modern technology has paved the way for multi-functional devices like the smartw
 and the smartphone. Computers are increasingly faster, more portable, and higher-powered than ever
 before. With all of these revolutions, technology has also made our lives easier, faster, better, and more fun.
 
+![d1uocva-8478dc97-c8ed-4993-81c3-0141e15dca4f](https://user-images.githubusercontent.com/58439868/132955957-6c151751-5a4a-45a8-bb2e-c08873339080.gif)
+
 
 ## How?   
 
 >  •	Certainly, if more and more like-minded enthusiasts engage in open-source community, the outcome will bring really massive change in the field of Technology! 
 >- You can add or commit [here](google.com) what you think and grow this community and apply your previous knowledge and predict technology of future.
+
 
 
 
@@ -61,10 +67,40 @@ QUANTUM COMPUTING
 AGI
 NANO TECH
 QUANTUM ENTANGELMENT
+
+.
+.
+.
+.
+.
+.
+.
+.
+This is just a known prossiblity predected a century ago. 
 ```
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/58439868/132951848-d0726234-25b2-4332-9c5e-d8211e962ec6.gif)
 
 
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/58439868/132952594-de419c3f-f863-4fe7-85ab-a77b2a9e98b9.gif)
+## BELOW GIF IS A EXAMPLE OF WEAK AI AKA GPT-3
+
+
+### HERE HOW AI GENERATE TEXT FROM SMALL REFRENCE OF USER TEXT.
+
+>![ezgif com-gif-maker](https://user-images.githubusercontent.com/58439868/132951848-d0726234-25b2-4332-9c5e-d8211e962ec6.gif)
+
+
+### AND THIS IS SECOND EXAMPLE HOW AI CAN GIVE YOU RECIPE OF YOUR FAVOURITE DISH
+
+
+>YOU CAN FIND GPT-3 [OPENAI](https://openai.com/).
+
+>![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/58439868/132952594-de419c3f-f863-4fe7-85ab-a77b2a9e98b9.gif)
+
+
+
+
+
+
+
+>This is dawn of new era will work on the possiblities of what we can imagine regardless of #possible or #impossible looking idea 
