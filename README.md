@@ -13,7 +13,8 @@ we are making guesses based on our current knowledge so here we predicting our t
 
 
 
-https://user-images.githubusercontent.com/58439868/132951642-64ae8354-207f-4614-bdb4-fd650cf9996b.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/58439868/132951848-d0726234-25b2-4332-9c5e-d8211e962ec6.gif)
+
 
 
 
