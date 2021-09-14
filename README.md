@@ -52,21 +52,24 @@ before. With all of these revolutions, technology has also made our lives easier
 ## How?   
 
 >  •	Certainly, if more and more like-minded enthusiasts engage in open-source community, the outcome will bring really massive change in the field of Technology! 
->- You can add or commit [here](google.com) what you think and grow this community and apply your previous knowledge and predict technology of future.
+
+You can add or commit [here](google.com) what you think and grow this community and apply your previous knowledge and predict technology of future.
 
 
 
 
->here are some sommon tech predctions
+>Here are some tech predctions
 
 ```
 AI
-QUANTUM COMPUTING
 AGI
+BCI
 NANO TECH
-QUANTUM ENTANGELMENT
 VIRTUAL REALITY
-AUGMENTED REALITY
+QUANTUM COMPUTING
+CLOUD COMPUTING
+BLOCKCHAIN
+
 
 .
 .
@@ -76,13 +79,13 @@ AUGMENTED REALITY
 .
 .
 .
-This is just a known prossiblity predected a century ago. 
+Some of these were actually fiction a decade ago.
 ```
 
 
 
 
-## BELOW GIF IS A EXAMPLE OF WEAK AI AKA GPT-3
+## BELOW GIF IS AN EXAMPLE OF WEAK AI AKA GPT-3
 
 
 ### HERE HOW AI GENERATE TEXT FROM SMALL REFRENCE OF USER TEXT.
@@ -103,4 +106,4 @@ This is just a known prossiblity predected a century ago.
 
 
 
->This is dawn of new era will work on the possiblities of what we can imagine regardless of #possible or #impossible looking idea 
+>This marks the begining of a community who wishes to work on the endless possiblities beyond human limits .
