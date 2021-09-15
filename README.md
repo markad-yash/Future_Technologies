@@ -107,3 +107,10 @@ Some of these were actually fiction a decade ago.
 
 
 >This marks the begining of a community who wishes to work on the endless possiblities beyond human limits .
+
+
+
+# HOW TO CONTRIBUTE OR SHARE IDEA
+
+ You can add your ideas on future technologies and contribute to share your opinion 
+ 
