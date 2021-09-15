@@ -114,3 +114,7 @@ Some of these were actually fiction a decade ago.
 
  You can add your ideas on future technologies and contribute to share your opinion 
  
+ 
+ ## OR YOU CAN RESPOND HERE 
+ 
+  [GOOGLE FORM](https://forms.gle/2cwXJPAZTA1tAzPv8)
